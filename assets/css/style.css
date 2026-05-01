@@ -1,0 +1,105 @@
+/* --- CSS Variables --- */
+:root {
+    --yellow: #F5A623;
+    --yellow-bg: #F5A623;
+    --navy: #0F1137;
+    --purple: #3D3BF3;
+    --purple-btn: #4845F5;
+    --hero-bg: #EEF0FF;
+    --features-bg: #EEF0FF;
+    --insights-bg: #F0F2FA;
+    --white: #FFFFFF;
+    --footer-bg: #0D0F2E;
+    --text-dark: #0F1137;
+    --text-gray: #555;
+    --text-light: rgba(255,255,255,0.7);
+    --radius-btn: 50px;
+    --radius-card: 16px;
+    --font: 'Inter', sans-serif;
+}
+/* --- Reset & Base --- */
+*, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: var(--font);
+    color: var(--text-dark);
+    background: var(--white);
+    overflow-x: hidden;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* ================================================
+   NAVBAR
+   ================================================ */
+.navbar {
+    background: var(--white);
+    padding: 14px 0;
+    position: sticky;
+    top: 0;
+    z-index: 999;
+    border-bottom: 1px solid rgba(0,0,0,0.06);
+}
+
+.navbar-brand {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 1.35rem;
+    font-weight: 800;
+    color: var(--navy);
+    letter-spacing: -0.3px;
+}
+
+.brand-logo {
+    width: 34px;
+    height: 34px;
+}
+
+.nav-link {
+    font-size: 0.95rem;
+    font-weight: 500;
+    color: var(--navy) !important;
+    padding: 6px 14px !important;
+    transition: opacity 0.2s;
+}
+
+    .nav-link:hover {
+        opacity: 0.65;
+    }
+
+.btn-signin {
+    background: var(--purple-btn);
+    color: var(--white) !important;
+    border-radius: var(--radius-btn);
+    padding: 9px 24px !important;
+    font-weight: 600;
+    font-size: 0.92rem;
+    transition: opacity 0.2s;
+}
+
+    .btn-signin:hover {
+        opacity: 0.85;
+    }
+
+.navbar-toggler {
+    border: none;
+    outline: none;
+    box-shadow: none !important;
+}
