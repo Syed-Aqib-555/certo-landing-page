@@ -388,3 +388,15 @@ a {
         margin-bottom: 30px;
         line-height: 1.6;
     }
+.btn-navy {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: var(--navy);
+    color: var(--white);
+    border-radius: var(--radius-btn);
+    padding: 12px 26px;
+    font-weight: 700;
+    font-size: 0.9rem;
+    transition: opacity 0.2s;
+}
