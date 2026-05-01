@@ -791,3 +791,6 @@ a {
         color: rgba(255,255,255,0.45);
         transition: color 0.2s;
     }
+        .footer-bottom-links a:hover {
+            color: var(--yellow);
+        }
