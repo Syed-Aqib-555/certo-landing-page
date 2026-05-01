@@ -234,6 +234,16 @@ a {
     position: relative;
     bottom: 0;
 }
+/* person silhouette overlay */
+.hero-person {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 65%;
+    opacity: 0.22;
+    pointer-events: none;
+    z-index: 1;
+}
 
 /* ================================================
    REVIEWS SECTION
