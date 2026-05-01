@@ -726,3 +726,10 @@ a {
         line-height: 1.6;
         margin-bottom: 24px;
     }
+.newsletter-form {
+    display: flex;
+    border-radius: var(--radius-btn);
+    overflow: hidden;
+    border: 2px solid rgba(0,0,0,0.08);
+    background: var(--white);
+}
