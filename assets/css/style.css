@@ -361,3 +361,11 @@ a {
     gap: 20px;
     flex-wrap: wrap;
 }
+
+/* ================================================
+   STORY & HELP CARDS
+   ================================================ */
+.story-help-section {
+    background: var(--white);
+    padding: 70px 0;
+}
