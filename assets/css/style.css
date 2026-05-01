@@ -239,3 +239,9 @@ a {
     white-space: nowrap;
     opacity: 0.85;
 }
+.featured-logos-wrap {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 28px 36px;
+}
