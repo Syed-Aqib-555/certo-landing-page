@@ -786,3 +786,8 @@ a {
     display: flex;
     gap: 24px;
 }
+    .footer-bottom-links a {
+        font-size: 0.75rem;
+        color: rgba(255,255,255,0.45);
+        transition: color 0.2s;
+    }
