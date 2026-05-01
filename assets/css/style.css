@@ -203,6 +203,12 @@ a {
         color: var(--navy);
         border-color: var(--white);
     }
+/* Hero right col — yellow + purple bg panel */
+.hero-img-panel {
+    position: relative;
+    height: 100%;
+    min-height: 480px;
+}
 
 /* ================================================
    REVIEWS SECTION
