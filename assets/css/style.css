@@ -558,3 +558,7 @@ a {
         line-height: 1.65;
         margin: 0;
     }
+.view-all-wrap {
+    margin-top: 50px;
+    text-align: center;
+}
