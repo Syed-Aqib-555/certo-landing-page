@@ -193,3 +193,12 @@ a {
     background: var(--yellow-bg);
     padding: 64px 0 56px;
 }
+
+    .reviews-section h2 {
+        font-size: clamp(1.6rem, 3vw, 2.4rem);
+        font-weight: 800;
+        color: var(--navy);
+        margin-bottom: 44px;
+        letter-spacing: -0.5px;
+        line-height: 1.2;
+    }
