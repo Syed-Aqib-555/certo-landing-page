@@ -331,3 +331,11 @@ a {
     text-align: center;
     padding: 10px 12px 28px;
 }
+.feature-icon-wrap {
+    margin: 0 auto 18px;
+    width: 80px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
