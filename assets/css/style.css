@@ -459,3 +459,9 @@ a {
         color: rgba(255,255,255,0.8);
         margin-bottom: 36px;
     }
+.cta-btns {
+    display: flex;
+    justify-content: center;
+    gap: 18px;
+    flex-wrap: wrap;
+}
