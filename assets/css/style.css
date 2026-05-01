@@ -202,3 +202,9 @@ a {
         letter-spacing: -0.5px;
         line-height: 1.2;
     }
+.review-card {
+    background: var(--white);
+    border-radius: var(--radius-card);
+    padding: 28px 26px 24px;
+    height: 100%;
+}
