@@ -198,6 +198,11 @@ a {
     transition: all 0.2s;
     white-space: nowrap;
 }
+    .btn-outline-white:hover {
+        background: var(--white);
+        color: var(--navy);
+        border-color: var(--white);
+    }
 
 /* ================================================
    REVIEWS SECTION
