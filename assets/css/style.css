@@ -159,3 +159,9 @@ a {
     transition: background 0.2s, transform 0.15s;
     white-space: nowrap;
 }
+    .btn-yellow:hover {
+        background: #e0931a;
+        border-color: #e0931a;
+        color: var(--white);
+        transform: translateY(-1px);
+    }
