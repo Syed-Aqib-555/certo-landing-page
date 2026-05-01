@@ -484,3 +484,10 @@ a {
         text-align: center;
         letter-spacing: -1px;
     }
+.insight-card {
+    background: var(--white);
+    border-radius: var(--radius-card);
+    overflow: hidden;
+    height: 100%;
+    transition: transform 0.25s, box-shadow 0.25s;
+}
