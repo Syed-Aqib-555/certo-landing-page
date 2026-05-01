@@ -468,3 +468,11 @@ a {
     gap: 18px;
     flex-wrap: wrap;
 }
+
+/* ================================================
+   INSIGHTS SECTION
+   ================================================ */
+.insights-section {
+    background: var(--insights-bg);
+    padding: 90px 0;
+}
