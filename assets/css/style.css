@@ -209,6 +209,16 @@ a {
     height: 100%;
     min-height: 480px;
 }
+    .hero-img-panel .yellow-bg {
+        position: absolute;
+        right: -12px;
+        top: 0;
+        bottom: 0;
+        width: calc(100% + 12px);
+        background: var(--yellow-bg);
+        border-left: 14px solid var(--purple-btn);
+        z-index: 0;
+    }
 
 /* ================================================
    REVIEWS SECTION
