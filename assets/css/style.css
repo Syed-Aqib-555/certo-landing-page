@@ -354,3 +354,10 @@ a {
     color: #555;
     line-height: 1.65;
 }
+.features-btns {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
