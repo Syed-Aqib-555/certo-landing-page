@@ -404,3 +404,7 @@ a {
         opacity: 0.8;
         color: var(--white);
     }
+.help-card {
+    padding: 44px 40px;
+    height: 100%;
+}
