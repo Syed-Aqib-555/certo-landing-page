@@ -476,3 +476,11 @@ a {
     background: var(--insights-bg);
     padding: 90px 0;
 }
+    .insights-section h2 {
+        font-size: clamp(1.8rem, 3.5vw, 3rem);
+        font-weight: 800;
+        color: var(--navy);
+        margin-bottom: 50px;
+        text-align: center;
+        letter-spacing: -1px;
+    }
