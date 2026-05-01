@@ -320,3 +320,10 @@ a {
         letter-spacing: -0.5px;
         text-align: center;
     }
+/* Big white rounded card wrapping all 6 features */
+.features-card {
+    background: var(--white);
+    border-radius: 24px;
+    padding: 50px 40px 44px;
+    box-shadow: 0 6px 40px rgba(0,0,0,0.06);
+}
