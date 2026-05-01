@@ -125,3 +125,8 @@ a {
         border-radius: 50%;
         pointer-events: none;
     }
+.hero-text-col {
+    padding-bottom: 60px;
+    position: relative;
+    z-index: 2;
+}
