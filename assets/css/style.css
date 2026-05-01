@@ -184,3 +184,12 @@ a {
         color: var(--white);
         border-color: var(--navy);
     }
+
+
+/* ================================================
+   REVIEWS SECTION
+   ================================================ */
+.reviews-section {
+    background: var(--yellow-bg);
+    padding: 64px 0 56px;
+}
