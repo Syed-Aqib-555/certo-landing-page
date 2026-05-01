@@ -706,3 +706,10 @@ a {
         .footer-nav-list li:hover {
             color: var(--yellow);
         }
+
+/* Newsletter box */
+.newsletter-box {
+    background: var(--yellow-bg);
+    border-radius: 20px;
+    padding: 36px 34px;
+}
