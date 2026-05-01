@@ -743,3 +743,19 @@ a {
         background: transparent;
         color: var(--navy);
     }
+        .newsletter-form input::placeholder {
+            color: #aaa;
+        }
+
+    .newsletter-form button {
+        background: var(--navy);
+        color: var(--white);
+        border: none;
+        padding: 12px 24px;
+        font-weight: 700;
+        font-size: 0.88rem;
+        font-family: var(--font);
+        cursor: pointer;
+        white-space: nowrap;
+        transition: opacity 0.2s;
+    }
