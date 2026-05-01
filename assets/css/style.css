@@ -369,3 +369,9 @@ a {
     background: var(--white);
     padding: 70px 0;
 }
+.story-card {
+    background: var(--yellow-bg);
+    border-radius: var(--radius-card);
+    padding: 44px 40px;
+    height: 100%;
+}
