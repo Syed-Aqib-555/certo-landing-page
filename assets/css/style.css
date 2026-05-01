@@ -304,3 +304,11 @@ a {
     align-items: center;
     justify-content: center;
 }
+
+/* ================================================
+   FEATURES SECTION
+   ================================================ */
+.features-section {
+    background: var(--features-bg);
+    padding: 90px 0;
+}
