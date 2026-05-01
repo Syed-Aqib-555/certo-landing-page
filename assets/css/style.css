@@ -382,3 +382,9 @@ a {
         margin-bottom: 14px;
         letter-spacing: -0.3px;
     }
+    .story-card p {
+        font-size: 0.95rem;
+        color: #333;
+        margin-bottom: 30px;
+        line-height: 1.6;
+    }
