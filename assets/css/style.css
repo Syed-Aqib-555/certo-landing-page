@@ -545,3 +545,10 @@ a {
 .insight-body {
     padding: 22px 22px 24px;
 }
+    .insight-body h4 {
+        font-size: 1.05rem;
+        font-weight: 700;
+        color: var(--navy);
+        margin-bottom: 12px;
+        line-height: 1.4;
+    }
