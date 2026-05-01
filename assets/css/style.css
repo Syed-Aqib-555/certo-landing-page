@@ -777,3 +777,8 @@ a {
     padding: 20px 0;
     margin-top: 56px;
 }
+    .footer-bottom p {
+        font-size: 0.75rem;
+        color: rgba(255,255,255,0.35);
+        margin: 0;
+    }
