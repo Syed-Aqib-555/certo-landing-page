@@ -434,3 +434,7 @@ a {
     border: 2px solid var(--navy);
     transition: all 0.2s;
 }
+    .btn-outline-navy:hover {
+        background: var(--navy);
+        color: var(--white);
+    }
