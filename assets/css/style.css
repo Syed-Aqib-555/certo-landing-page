@@ -630,3 +630,10 @@ a {
     padding: 64px 0 0;
     color: var(--white);
 }
+.footer-tagline {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: var(--white);
+    margin-bottom: 28px;
+    letter-spacing: -0.2px;
+}
