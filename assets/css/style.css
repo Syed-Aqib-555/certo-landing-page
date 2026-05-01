@@ -698,3 +698,8 @@ a {
         cursor: pointer;
         transition: color 0.2s;
     }
+        .footer-nav-list li::before {
+            content: '—';
+            color: rgba(255,255,255,0.35);
+            font-size: 0.85rem;
+        }
