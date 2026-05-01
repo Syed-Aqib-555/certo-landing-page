@@ -145,3 +145,17 @@ a {
     margin-bottom: 36px;
     max-width: 480px;
 }
+.btn-yellow {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: var(--yellow);
+    color: var(--white);
+    border-radius: var(--radius-btn);
+    padding: 13px 26px;
+    font-weight: 700;
+    font-size: 0.95rem;
+    border: 2px solid var(--yellow);
+    transition: background 0.2s, transform 0.15s;
+    white-space: nowrap;
+}
