@@ -130,3 +130,18 @@ a {
     position: relative;
     z-index: 2;
 }
+.hero-section h1 {
+    font-size: clamp(2.4rem, 5vw, 3.6rem);
+    font-weight: 800;
+    line-height: 1.1;
+    color: var(--navy);
+    margin-bottom: 22px;
+    letter-spacing: -1px;
+}
+.hero-section p {
+    font-size: 1.05rem;
+    color: #444;
+    line-height: 1.65;
+    margin-bottom: 36px;
+    max-width: 480px;
+}
