@@ -103,3 +103,14 @@ a {
     outline: none;
     box-shadow: none !important;
 }
+/* ================================================
+   HERO SECTION
+   ================================================ */
+.hero-section {
+    background: var(--hero-bg);
+    padding-top: 70px;
+    padding-bottom: 0;
+    overflow: hidden;
+    position: relative;
+    min-height: 580px;
+}
