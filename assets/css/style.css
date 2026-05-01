@@ -438,3 +438,12 @@ a {
         background: var(--navy);
         color: var(--white);
     }
+
+/* ================================================
+   CTA BANNER
+   ================================================ */
+.cta-banner {
+    background: linear-gradient(135deg, #3533D4 0%, #4845F5 100%);
+    padding: 80px 0;
+    text-align: center;
+}
