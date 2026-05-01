@@ -245,3 +245,10 @@ a {
     flex-wrap: wrap;
     gap: 28px 36px;
 }
+/* SVG logos inline */
+.logo-svg {
+    height: 28px;
+    width: auto;
+    fill: var(--navy);
+    opacity: 0.85;
+}
