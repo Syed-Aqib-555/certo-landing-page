@@ -214,3 +214,9 @@ a {
     margin-bottom: 14px;
     letter-spacing: 2px;
 }
+.review-card p {
+    font-size: 0.9rem;
+    color: #333;
+    line-height: 1.65;
+    margin-bottom: 16px;
+}
