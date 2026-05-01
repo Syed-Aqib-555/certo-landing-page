@@ -759,3 +759,6 @@ a {
         white-space: nowrap;
         transition: opacity 0.2s;
     }
+        .newsletter-form button:hover {
+            opacity: 0.8;
+        }
