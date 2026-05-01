@@ -658,3 +658,9 @@ a {
         background: rgba(255,255,255,0.2);
         color: var(--white);
     }
+.footer-legal {
+    font-size: 0.8rem;
+    color: rgba(255,255,255,0.45);
+    line-height: 1.65;
+    max-width: 360px;
+}
