@@ -794,3 +794,9 @@ a {
         .footer-bottom-links a:hover {
             color: var(--yellow);
         }
+.footer-apple-note {
+    font-size: 0.72rem;
+    color: rgba(255,255,255,0.25);
+    line-height: 1.6;
+    padding: 16px 0 32px;
+}
