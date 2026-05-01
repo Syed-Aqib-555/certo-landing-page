@@ -400,3 +400,7 @@ a {
     font-size: 0.9rem;
     transition: opacity 0.2s;
 }
+    .btn-navy:hover {
+        opacity: 0.8;
+        color: var(--white);
+    }
