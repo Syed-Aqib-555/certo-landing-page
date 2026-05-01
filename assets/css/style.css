@@ -713,3 +713,10 @@ a {
     border-radius: 20px;
     padding: 36px 34px;
 }
+    .newsletter-box h4 {
+        font-size: 1.35rem;
+        font-weight: 800;
+        color: var(--navy);
+        margin-bottom: 14px;
+        letter-spacing: -0.3px;
+    }
