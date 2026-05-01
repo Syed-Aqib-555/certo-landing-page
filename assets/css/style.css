@@ -873,3 +873,27 @@ a {
         justify-content: center;
     }
 }
+
+@media (max-width: 480px) {
+    .hero-section h1 {
+        font-size: 2rem;
+    }
+
+    .review-card {
+        padding: 20px 18px;
+    }
+
+    .newsletter-form {
+        flex-direction: column;
+        border-radius: 12px;
+    }
+
+        .newsletter-form button {
+            border-radius: 0 0 10px 10px;
+            padding: 13px;
+        }
+
+        .newsletter-form input {
+            padding: 13px 18px;
+        }
+}
