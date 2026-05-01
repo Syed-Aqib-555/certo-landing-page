@@ -327,3 +327,7 @@ a {
     padding: 50px 40px 44px;
     box-shadow: 0 6px 40px rgba(0,0,0,0.06);
 }
+.feature-item {
+    text-align: center;
+    padding: 10px 12px 28px;
+}
