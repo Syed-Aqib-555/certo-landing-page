@@ -621,3 +621,12 @@ a {
     margin-top: 50px;
     text-align: center;
 }
+
+/* ================================================
+   FOOTER
+   ================================================ */
+.footer {
+    background: var(--footer-bg);
+    padding: 64px 0 0;
+    color: var(--white);
+}
