@@ -219,6 +219,15 @@ a {
         border-left: 14px solid var(--purple-btn);
         z-index: 0;
     }
+    .hero-img-panel .phone-wrap {
+        position: relative;
+        z-index: 2;
+        display: flex;
+        align-items: flex-end;
+        justify-content: center;
+        height: 100%;
+        padding-top: 30px;
+    }
 
 /* ================================================
    REVIEWS SECTION
