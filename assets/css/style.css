@@ -225,3 +225,9 @@ a {
     font-weight: 700;
     color: var(--navy);
 }
+
+/* Featured strip (still on yellow bg) */
+.featured-strip {
+    background: var(--yellow-bg);
+    padding: 32px 0 56px;
+}
