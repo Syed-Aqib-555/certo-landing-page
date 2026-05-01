@@ -800,3 +800,24 @@ a {
     line-height: 1.6;
     padding: 16px 0 32px;
 }
+
+/* ================================================
+   RESPONSIVE
+   ================================================ */
+@media (max-width: 991px) {
+    .hero-img-panel {
+        min-height: 320px;
+    }
+
+    .hero-phone-svg {
+        width: 190px;
+    }
+
+    .features-card {
+        padding: 36px 20px 30px;
+    }
+
+    .story-card, .help-card {
+        padding: 36px 28px;
+    }
+}
