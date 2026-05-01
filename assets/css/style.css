@@ -339,3 +339,7 @@ a {
     align-items: center;
     justify-content: center;
 }
+    .feature-icon-wrap svg {
+        width: 70px;
+        height: 70px;
+    }
