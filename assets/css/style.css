@@ -654,3 +654,7 @@ a {
     font-size: 1rem;
     transition: background 0.2s;
 }
+    .social-icon:hover {
+        background: rgba(255,255,255,0.2);
+        color: var(--white);
+    }
