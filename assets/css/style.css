@@ -552,3 +552,9 @@ a {
         margin-bottom: 12px;
         line-height: 1.4;
     }
+    .insight-body p {
+        font-size: 0.85rem;
+        color: #555;
+        line-height: 1.65;
+        margin: 0;
+    }
