@@ -672,3 +672,12 @@ a {
         .footer-legal a:hover {
             color: var(--yellow);
         }
+.footer-brand-col h4 {
+    font-size: 1.7rem;
+    font-weight: 800;
+    color: var(--white);
+    border-bottom: 2px solid rgba(255,255,255,0.15);
+    padding-bottom: 18px;
+    margin-bottom: 24px;
+    letter-spacing: -0.5px;
+}
