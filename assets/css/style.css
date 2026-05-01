@@ -375,3 +375,10 @@ a {
     padding: 44px 40px;
     height: 100%;
 }
+    .story-card h3 {
+        font-size: 1.5rem;
+        font-weight: 800;
+        color: var(--navy);
+        margin-bottom: 14px;
+        letter-spacing: -0.3px;
+    }
