@@ -179,3 +179,8 @@ a {
     transition: all 0.2s;
     white-space: nowrap;
 }
+    .btn-outline-dark:hover {
+        background: var(--navy);
+        color: var(--white);
+        border-color: var(--navy);
+    }
